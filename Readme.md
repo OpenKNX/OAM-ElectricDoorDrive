@@ -2,6 +2,10 @@
 
 OpenKNX Firmware und Anwendung zur OpenKNX-kompatiblen Anbindung von elektrischen Türantrieben und Sensoren.
 
+## Inbetriebnahme
+
+Die Inbetriebnahme geht am einfachsten mit der [OpenKNX Toolbox](https://openknx.atlassian.net/wiki/spaces/OpenKNX/pages/66295/OpenKNX-Toolbox).
+
 ## Kompatible Türantriebe und Sensoren
 
 Aktuell wird folgender Türantrieb unterstützt:
@@ -22,4 +26,4 @@ Eine elektromagnetische Verriegelung (24 V) kann ebenfalls angeschlossen werden.
 
 Die OpenKNX-kompatible Anbindung erfolgt über eine Steuerplatine, an welcher der Türantrieb sowie etwaige Sensoren angeschlossen werden.
 
-Alle Infos zur kompatiblen Hardware findet sich [hier](https://www.ab-smarthouse.com/produkt/openknx-elektrische-tuersteuerung/) oder bei Interesse einfach Kontakt per [E-Mail](mailto:info@ab-smarthouse.com?subject=[OpenKNX]%20Electric%20Door%20Drive) aufnehmen.
+Eine Funktionsbeschreibung sowie kompatible Hardware findet sich [hier](https://openknx.atlassian.net/wiki/spaces/OpenKNX/pages/8257600/Ger+te+bersicht).
